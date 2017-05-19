@@ -1,0 +1,23 @@
+{
+  "name": "jsgenerator",
+  "version": "1.0.0",
+  "description": "javascript generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "options" : {
+    "header" : {
+      "author":"JS_AUTHOR",
+      "authorMail":"JS_AUTHOR",
+      "authorTwt":"JS_AUTHOR_TWITTER"
+    }
+  },
+  "author": "isabolic99",
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "q": "^1.5.0",
+    "winston": "^2.3.1"
+  }
+}
