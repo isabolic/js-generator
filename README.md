@@ -38,7 +38,7 @@ Your support means a lot.
 You can create/edit/delete templates. All tamplates are stored in templates folder.
 
 ### Oracle APEX 
-This project also supports creating oracle apex. It creates javascript skeleton with apex JS API.
+This project also supports creating oracle apex plugins. It creates javascript constructor skeleton with apex JS API.
 
 To generate inside terminal execute
  ```bash
